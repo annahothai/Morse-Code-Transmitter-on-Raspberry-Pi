@@ -2,7 +2,7 @@
 
 To those outside of Mr.Walker's class, this is a school project for my Computer Science class.
 
-###Direction
+### Direction
 ## Setting up the breadboad
 Before doing anything, make sure to disconnect the Raspberry Pi. You can damage your Raspberry Pi or fry your LEDs if you assemble the parts incorrectly. 
 
@@ -14,7 +14,7 @@ Before doing anything, make sure to disconnect the Raspberry Pi. You can damage 
 
 The finished product should look like this: 
 
-![]https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Set%20Up%20Image/setup5.jpg)
+![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Set%20Up%20Image/setup5.jpg)
 
 ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Set%20Up%20Image/setup4.jpg)
 
