@@ -3,7 +3,7 @@
 To those outside of Mr.Walker's class, this is a school project for my Computer Science class.
 
 ## What Are We Doing?
-In this tutorial, we will make an LED signal morse dode using Raspberry Pi. For those who are unfamiliar with morse codes, you can refer to a guide in this image 1[](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Morse%20Code%20Guide.png)
+In this tutorial, we will make an LED signal morse code with a Raspberry Pi. For those who are unfamiliar with morse codes, you can refer to a guide from this image ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Morse%20Code%20Guide.png)
 
 ## Materials
 For this project, you will need:
