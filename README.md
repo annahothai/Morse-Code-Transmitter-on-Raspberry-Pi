@@ -19,11 +19,13 @@ For this project, you will need:
 ## Setting up the breadboad
 Before doing anything, make sure to disconnect the Raspberry Pi. You can damage your Raspberry Pi or fry your LEDs if you assemble the parts incorrectly. 
 
-1. Connect the cobbler and ribbon to the Raspberri Pi and the breadboard.
+1. Assemble the cobbler breakout and ribbon wire to the Raspberry Pi and the breadboard.
  
-2. Place the LED on an empty column on the breadboard (a column that isn't connected to the cobbler), both legs should be in the same column (vertical).
+2. Place the LED on an empty row on the breadboard (a row that isn't connected to the cobbler breakout), both legs should be in the same column (vertically).
 
-3. Then, take the resistor, connect one end to the same row (horizontal) as the short (cathode) leg of the LED. Connect the other end to one of the "ground" (GND) pins 
+3. Take a male/male jumper wire, connect one end to the same row (horizontally) as the long (anode) leg of the LED. Connect the othre end to pin number 21. 
+
+4. Then, take the resistor, connect one end to the same row (horizontally) as the short (cathode) leg of the LED. Connect the other end to one of the "ground" (GND) pins 
 
 The finished product should look like this: 
 
