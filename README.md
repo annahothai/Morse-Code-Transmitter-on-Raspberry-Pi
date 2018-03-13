@@ -2,6 +2,18 @@
 
 To those outside of Mr.Walker's class, this is a school project for my Computer Science class.
 
+## What Are We Doing?
+In this tutorial, we will make an LED signal morse dode using Raspberry Pi. For those who are unfamiliar with morse codes, you can refer to a guide in this image 1[](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Morse%20Code%20Guide.png)
+
+## Materials
+For this project, you will need:
+1. 1 Raspberry Pi 3 and SD card
+2. 1 Pi Cobbler
+3. 1 Male/Male Jumper Wire
+4. 1 10K 5% 1/4W Resistor
+5. 1 LED
+6. USB cable to connect your Raspberry Pi
+
 ### Direction
 ## Setting up the breadboad
 Before doing anything, make sure to disconnect the Raspberry Pi. You can damage your Raspberry Pi or fry your LEDs if you assemble the parts incorrectly. 
@@ -24,7 +36,7 @@ The finished product should look like this:
  
  
  ## Python
- 1. You can now plug in your Raspberri Pi
+ 1. You can now plug in your Raspberri Pi with the USB cable.
  2. Log into your Raspberry Pi account. Then, create a python file. This is done by right clicking on your desktop --> New --> Text Document(or text file), name it what ever you want with a ```.py``` extension after the name. I called mine MC.py (for Morse Code).
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python2.png)
  
