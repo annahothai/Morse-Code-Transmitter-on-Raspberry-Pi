@@ -1,6 +1,6 @@
 # Morse-Code-Transmitter-on-Raspberry-Pi
 
-To those outside of Mr.Walker's class, this is a beginner Raspberry Pi project for my Computer Science class.
+To those outside of Mr.Walker's class, this is a beginner Raspberry Pi project for my IB Computer Science class.
 
 ## What Are We Doing?
 In this tutorial, we will make an LED signal morse code with a Raspberry Pi as inspired by [Steven Childrey's code on GitHub](https://github.com/Stevenchi36/LED-Morse-Code-for-Raspberry-Pi/blob/master/README.md). For those who are unfamiliar with morse codes, you can refer to a guide from this image ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Morse%20Code%20Guide.png)
