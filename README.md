@@ -3,7 +3,7 @@
 To those outside of Mr.Walker's class, this is a beginner Raspberry Pi project for my Computer Science class.
 
 ## What Are We Doing?
-In this tutorial, we will make an LED signal morse code with a Raspberry Pi as inspired by [Steven Childrey's code on Github](https://github.com/Stevenchi36/LED-Morse-Code-for-Raspberry-Pi/blob/master/README.md). For those who are unfamiliar with morse codes, you can refer to a guide from this image ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Morse%20Code%20Guide.png)
+In this tutorial, we will make an LED signal morse code with a Raspberry Pi as inspired by [Steven Childrey's code on GitHub](https://github.com/Stevenchi36/LED-Morse-Code-for-Raspberry-Pi/blob/master/README.md). For those who are unfamiliar with morse codes, you can refer to a guide from this image ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Morse%20Code%20Guide.png)
 
 ## Materials
 For this project, you will need:
@@ -39,8 +39,9 @@ The finished product should look like this:
  
  
  ## Python
- 1. You can now plug in your Raspberri Pi with the USB cable.
- 2. Log into your Raspberry Pi account. Then, create a python file. This is done by right clicking on your desktop --> New --> Text Document(or text file), name it what ever you want with a ```.py``` extension after the name. I called mine MC.py (for Morse Code).
+ 1. You can now plug in your Raspberry Pi with the USB cable.
+ 2. Log into your Raspberry Pi account. Then, create a Python file. This is done by right clicking on your desktop --> New --> Text Document(or text file), name it what ever you want with a ```.py``` extension after the name. I called mine MC.py (MC for Morse Code).
+ 
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python2.png)
  
  A blank Python file will appear on your desktop, double click on it to edit the file
@@ -65,9 +66,9 @@ The finished product should look like this:
  
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python7.jpg)
  
-6.Press Enter, enter your password for you sudo access
+6.Press Enter, enter the password for your sudo access
  
-7. Your screen will ask for a text that will be transmitted to a morse code! Type a word or something in!
+7. Your screen will ask for a text that will be transmitted to a morse code! Type something in!
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python8.jpg)
  
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python9.jpg) 
