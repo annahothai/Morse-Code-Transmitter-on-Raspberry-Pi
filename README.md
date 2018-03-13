@@ -12,7 +12,8 @@ For this project, you will need:
 3. 1 Male/Male Jumper Wire
 4. 1 10K 5% 1/4W Resistor
 5. 1 LED
-6. USB cable to connect your Raspberry Pi
+6. 1 Breadboard
+7. USB cable to connect your Raspberry Pi
 
 ### Direction
 ## Setting up the breadboad
