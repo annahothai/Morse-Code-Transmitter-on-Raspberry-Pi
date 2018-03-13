@@ -8,7 +8,7 @@ In this tutorial, we will make an LED signal morse code with a Raspberry Pi. For
 ## Materials
 For this project, you will need:
 1. 1 Raspberry Pi 3 and SD card
-2. 1 Pi Cobbler
+2. 1 Pi Cobbler breakout and ribbon wire
 3. 1 Male/Male Jumper Wire
 4. 1 10K 5% 1/4W Resistor
 5. 1 LED
