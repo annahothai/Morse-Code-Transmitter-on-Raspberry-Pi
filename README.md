@@ -1,16 +1,16 @@
 # Morse-Code-Transmitter-on-Raspberry-Pi
 
-To those outside of Mr.Walker's class, this is a school project for my Computer Science class.
+To those outside of Mr.Walker's class, this is a beginner Raspberry Pi project for my Computer Science class.
 
 ## What Are We Doing?
-In this tutorial, we will make an LED signal morse code with a Raspberry Pi. For those who are unfamiliar with morse codes, you can refer to a guide from this image ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Morse%20Code%20Guide.png)
+In this tutorial, we will make an LED signal morse code with a Raspberry Pi as inspired by [Steven Childrey's code on Github](https://github.com/Stevenchi36/LED-Morse-Code-for-Raspberry-Pi/blob/master/README.md). For those who are unfamiliar with morse codes, you can refer to a guide from this image ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Morse%20Code%20Guide.png)
 
 ## Materials
 For this project, you will need:
 1. 1 Raspberry Pi 3 and SD card
 2. 1 Pi Cobbler breakout and ribbon wire
 3. 1 Male/Male Jumper Wire
-4. 1 10K 5% 1/4W Resistor
+4. 1 Resistor
 5. 1 LED
 6. 1 Breadboard
 7. USB cable to connect your Raspberry Pi
@@ -75,3 +75,11 @@ The finished product should look like this:
  8.  The LED will blink morse code! (.... . ._.. ._.. ___ __. ___ ._. ._.. _.. reads HELLO WORLD)
  Here's a [video](https://youtu.be/c72rko-nqZQ) of it blinking! (Yes, I realize I filmed vertically, who cares. The video quality isn't super good.) 
  
+ 
+ ## Changes you can make to the code
+If you used a different pin than pin#21, you can change the number on Line 7 in the code to whatever pin you used
+```led = LED(26)```
+
+To change the speed of the morse code, you can change the percent of the speed in line 8
+```speedPercent = 100```
+The lower the number, the slower it will be.
