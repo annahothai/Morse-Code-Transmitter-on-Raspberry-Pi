@@ -81,7 +81,7 @@ The finished product should look like this:
  
  ## Changes you can make to the code
 If you used a different pin than pin#21, you can change the number on Line 7 in the code to whatever pin you used
-```led = LED(26)```
+```led = LED(21)```
 
 To change the speed of the morse code, you can change the percent of the speed in line 8
 ```speedPercent = 100```
