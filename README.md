@@ -75,7 +75,7 @@ The finished product should look like this:
  
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python9.jpg) 
  
- 8.  The LED will blink morse code! (.... . ._.. ._.. ___ __. ___ ._. ._.. _.. reads HELLO WORLD)
+ 8.  The LED will blink morse code!
  Here's a [video](https://youtu.be/c72rko-nqZQ) of it blinking! (Yes, I realize I filmed vertically, who cares. The video quality isn't super good.) 
  
  
