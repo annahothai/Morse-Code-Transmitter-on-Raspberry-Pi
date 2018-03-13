@@ -44,7 +44,8 @@ The finished product should look like this:
  
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python2.png)
  
- A blank Python file will appear on your desktop, double click on it to edit the file
+ A blank Python file will appear on your desktop, double click on it to edit the file.
+ 
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Pyhon1.PNG)
  
  3. Copy and paste the code from [MC.py](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/MC.py)
@@ -69,6 +70,7 @@ The finished product should look like this:
 6.Press Enter, enter the password for your sudo access
  
 7. Your screen will ask for a text that will be transmitted to a morse code! Type something in!
+
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python8.jpg)
  
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python9.jpg) 
