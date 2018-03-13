@@ -2,7 +2,7 @@
 
 To those outside of Mr.Walker's class, this is a school project for my Computer Science class.
 
-Direction
+###Direction
 ## Setting up the breadboad
 Before doing anything, make sure to disconnect the Raspberry Pi. You can damage your Raspberry Pi or fry your LEDs if you assemble the parts incorrectly. 
 
@@ -40,17 +40,21 @@ The finished product should look like this:
  
 5. Open the terminal and type in
  ```sudo python (whatever path you save your MC.py file on) ``` 
- You can also right click on your file and "Copy Path" and then paste it onto the terminal
+(For your path, you can right click on your file and "Copy Path" and then paste it onto the terminal)
  
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python4.jpg)
+ 
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python4.jpg)
+ 
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python6.jpg)
+ 
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python7.jpg)
  
 6.Press Enter, enter your password for you sudo access
  
 7. Your screen will ask for a text that will be transmitted to a morse code! Type a word or something in!
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python8.jpg)
+ 
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python9.jpg) 
  
  8.  The LED will blink morse code! (.... . ._.. ._.. ___ __. ___ ._. ._.. _.. reads HELLO WORLD)
