@@ -16,7 +16,7 @@ For this project, you will need:
 7. USB cable to connect your Raspberry Pi
 
 ### Direction
-## Setting up the breadboad
+## Setting up the breadboard
 Before doing anything, make sure to disconnect the Raspberry Pi. You can damage your Raspberry Pi or fry your LEDs if you assemble the parts incorrectly. 
 
 1. Assemble the cobbler breakout and ribbon wire to the Raspberry Pi and the breadboard.
