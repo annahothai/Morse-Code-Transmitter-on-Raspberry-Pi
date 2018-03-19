@@ -23,7 +23,7 @@ Before doing anything, make sure to disconnect the Raspberry Pi. You can damage 
  
 2. Place the LED on an empty row on the breadboard (a row that isn't connected to the cobbler breakout), both legs should be in the same column (vertically).
 
-3. Take a male/male jumper wire, connect one end to the same row (horizontally) as the long (anode) leg of the LED. Connect the othre end to pin number 21. 
+3. Take a male/male jumper wire, connect one end to the same row (horizontally) as the long (anode) leg of the LED. Connect the other end to pin number 21. 
 
 4. Then, take the resistor, connect one end to the same row (horizontally) as the short (cathode) leg of the LED. Connect the other end to one of the "ground" (GND) pins 
 
