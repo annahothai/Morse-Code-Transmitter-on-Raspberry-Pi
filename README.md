@@ -38,9 +38,9 @@ The finished product should look like this:
 5. You're done with the setup! Let's get to the code
  
  
- ## Python
- 1. You can now plug in your Raspberry Pi with the USB cable.
- 2. Log into your Raspberry Pi account. Then, create a Python file. This is done by right clicking on your desktop --> New --> Text Document(or text file), name it what ever you want with a ```.py``` extension after the name. I called mine MC.py (MC for Morse Code).
+## Python
+1. You can now plug in your Raspberry Pi with the USB cable.
+2. Log into your Raspberry Pi account. Then, create a Python file. This is done by right clicking on your desktop --> New --> Text Document(or text file), name it what ever you want with a ```.py``` extension after the name. I called mine MC.py (MC for Morse Code).
  
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python2.png)
  
@@ -48,7 +48,7 @@ The finished product should look like this:
  
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Pyhon1.PNG)
  
- 3. Copy and paste the code from [MC.py](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/MC.py)
+3. Copy and paste the code from [MC.py](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/MC.py)
  (The code was not created by me. It was by [Steven Childrey](https://github.com/Stevenchi36/LED-Morse-Code-for-Raspberry-Pi) and I give all the credits to him).
  
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python3.png)
@@ -69,13 +69,13 @@ The finished product should look like this:
  
 6.Press Enter, enter the password for your sudo access
  
-7. Your screen will ask for a text that will be transmitted to a morse code! Type something in!
+7.Your screen will ask for a text that will be transmitted to a morse code! Type something in!
 
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python8.jpg)
  
  ![](https://github.com/annahothai/Morse-Code-Transmitter-on-Raspberry-Pi/blob/master/Python%20Scripting%20Images/Python9.jpg) 
  
- 8.  The LED will blink morse code!
+8.  The LED will blink morse code!
  Here's a [video](https://youtu.be/c72rko-nqZQ) of it blinking! (Yes, I realize I filmed vertically, who cares. The video quality isn't super good.) 
  
  
